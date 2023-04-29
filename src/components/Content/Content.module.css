@@ -1,0 +1,11 @@
+.content {
+   grid-area: c;
+   background-image: url('https://th.bing.com/th/id/R.f4381d1c1914261fa120c919200c4741?rik=Qkx73gT60RCVxw&pid=ImgRaw&r=0');
+   /* background-color: #cccccc; */
+   height: 100%;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+ }

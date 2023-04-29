@@ -1,0 +1,13 @@
+.item {
+  color: greenyellow;
+  margin-left: 2%;
+  margin-top: 50px;
+}
+.itemText{
+  align-items: center;
+  justify-content: center;
+}
+.item img {
+  height: 85px;
+  border-radius: 25%;
+}

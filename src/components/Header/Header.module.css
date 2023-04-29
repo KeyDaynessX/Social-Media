@@ -1,0 +1,17 @@
+.header {
+    grid-area: h;
+    background-color: rgba(33,37,41);
+    
+}
+.header_item{
+    height: 100%;
+    display: flex;
+    margin-left: 1%;
+    align-items: center;
+}
+.header_item h2{
+    margin: 0px;
+    color: aliceblue;
+    margin-left: 1%;
+}
+
