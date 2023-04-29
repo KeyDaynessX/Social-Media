@@ -8,9 +8,6 @@ const Profile = (props) => {
     <div className={style.profile}>
       <ProfileInfo/>
       <MyPosts posts={props.posts}/>
-      <a href="https://react.dev/"></a>
-      <a href="https://react.dev/"></a>
-      <a href="https://react.dev/"></a>
     </div>
   )
 }
